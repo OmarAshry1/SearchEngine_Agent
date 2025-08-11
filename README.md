@@ -2,6 +2,8 @@
 
 A powerful multi-source search engine built with LangChain that combines DuckDuckGo, Arxiv, and Wikipedia searches using an AI agent.
 
+## Demo
+![demo](demo/SearchEngine_demo.gif)
 ## 🌟 Features
 
 - **Multiple Search Sources**:
