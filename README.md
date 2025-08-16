@@ -5,7 +5,7 @@ A powerful multi-source search engine built with LangChain that combines DuckDuc
 ## Demo
 ![demo](demo/SearchEngine_demo.gif)
 
-## URL
+## Link
 [Click here](https://search-engine-agent.streamlit.app/)
 ## 🌟 Features
 
